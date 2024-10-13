@@ -25,5 +25,6 @@ Models Used
 1) Decision Trees
 2) Random Forests
 3) Gradient Boosting
+
 These models are trained to predict optimal conditions for planting and other agricultural activities based on the input data.
 
